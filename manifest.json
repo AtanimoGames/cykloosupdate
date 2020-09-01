@@ -1,7 +1,7 @@
 {
-	"manifest_url": "http://www.ekalia.com/gm/gmgl/manifest.json", //url to your remote manifest file
-	"current_version": "", //leave blank, will be filled locally after the first update
-	"latest_version": "0.0.1", //the latest version of your game. No special versioning format required
-	"url": "https://srv-file20.gofile.io/download/qCqO3t/CYKLOOS-OLD_ALPHA-TEST_9.zip", //url to your game zipped folder
-	"executable_path": "CYKLOOS-OLD_ALPHA.exe" //path to the main game executable in the zip folder
+	"manifest_url": "http://www.ekalia.com/gm/gmgl/manifest.json",
+	"current_version": "",
+	"latest_version": "0.0.1",
+	"url": "https://srv-file20.gofile.io/download/qCqO3t/CYKLOOS-OLD_ALPHA-TEST_9.zip",
+	"executable_path": "CYKLOOS-OLD_ALPHA.exe"
 }
