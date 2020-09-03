@@ -1,7 +1,7 @@
 {
 	"manifest_url": "https://atanimogames.github.io/cykloosupdate/manifest.json",
-	"current_version": "0.0.3",
-	"latest_version": "0.0.2",
+	"current_version": "0.0.4",
+	"latest_version": "0.0.3",
 	"url": "https://atanimogames.ml/CYKLOOS-OLD_ALPHA_TEST_LAUNCHER_10.zip",
 	"executable_path": "CYKLOOS-OLD_ALPHA.exe"
 }
